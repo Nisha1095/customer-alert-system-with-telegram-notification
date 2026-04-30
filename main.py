@@ -22,8 +22,8 @@ LAST_ALERT_TIME = 0
 # =======================
 # VIDEO CONFIG
 # =======================
-# VIDEO_PATH = "/home/pi/person_detection/human_video2.mp4"
-VIDEO_PATH = "YOUR_RTSP_URL_OF_CCTV"
+
+VIDEO_PATH = "YOUR_RTSP_URL_OF_CCTV" #Path of stored video
 FRAME_SKIP = 30
 CONFIDENCE = 0.5
 ALERT_INTERVAL = 30
